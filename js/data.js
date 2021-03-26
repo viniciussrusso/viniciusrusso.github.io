@@ -14,7 +14,7 @@ var data = {
     {name: 'FileHandling-GUI', url: 'https://github.com/viniciussrusso/FileHandling-GUI'},
     {name: 'Stay Safe', url: 'https://github.com/viniciussrusso/StaySafe19'},
     {name: 'Countdown Game', url: 'https://github.com/viniciussrusso/KeywordCountdown'},
-    {name: 'MP Webpage', url: 'https://github.com/viniciussrusso/MP-webpage'}
+    {name: 'MP Webpage', url: 'https://viniciussrusso.github.io/MP-webpage/'}
   ],
   resume: 'viniciusrusso_cv.pdf',
   socials: [
